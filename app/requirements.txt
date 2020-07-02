@@ -1,0 +1,17 @@
+Flask>=1.1.2
+
+flask-restplus>=0.13.0
+
+# cached_property>=1.5.1
+
+werkzeug>=1.0.1
+flask_cors>=3.0.8
+
+# marshmallow>=2.13.5,<3
+# flask-marshmallow>=0.7,<0.8
+# marshmallow-sqlalchemy>=0.12,<0.13
+# webargs>=1.4.0,<2
+# apispec>=0.20.0,<0.39
+
+six
+enum34; python_version < '3.4'
