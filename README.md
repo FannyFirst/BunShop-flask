@@ -1,6 +1,6 @@
 ## BunShop-flask
 
-## 本项目为提交Python个人WEB项目的前端部分
+## 本项目为提交Python个人WEB项目的后端部分
 
 ## （前端部分Vue项目见[BunShop-vue](https://github.com/FannyFirst/BunShop-vue)）
 
